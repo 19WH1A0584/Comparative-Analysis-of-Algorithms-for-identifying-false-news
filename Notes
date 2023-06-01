@@ -1,7 +1,7 @@
 The dataset is the collection of about 20800 news articles. It has been created by the University of  Tennessee’s Machine Learning Club, USA. 
 This dataset is freely available at https://www.kaggle.com/competitions/fake-news/data 
 Dataset consists of the following attributes 
-•	id: unique id for a news article 
+•	id: unique id for a news article 
 •	title: the title of a news article 
 •	author: author of the news article 
 •	text: the text of the article; could be incomplete 
